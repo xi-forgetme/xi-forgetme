@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/insights/xi-forgetme)
+![Metrics](https://metrics.lecoq.io/xi-forgetme)
